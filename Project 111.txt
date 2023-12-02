@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Your Streaming Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+
+        header {
+            background-color: #4CAF50; /* Green */
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff; /* White */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+
+        h1 {
+            color: #4CAF50; /* Green */
+        }
+
+
+        h2 {
+            color: #333;
+        }
+
+
+        p {
+            line-height: 1.6;
+            color: #777; /* Gray */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+    </header>
+
+
+    <section>
+        <h2>Our Story</h2>
+        <p>Welcome to Your Streaming Service, where entertainment knows no bounds. Our journey began with a passion for delivering high-quality streaming content to audiences worldwide. Starting from a small garage, we've grown into a global platform, serving millions of users. We're proud to have pioneered innovative features that enhance your viewing experience.</p>
+
+
+        <h2>Our Mission</h2>
+        <p>At Your Streaming Service, our mission is to provide a diverse and extensive library of movies, TV shows, and exclusive content. We aim to make entertainment accessible to everyone, anytime, anywhere. Whether you're a fan of thrilling dramas, hilarious comedies, or mind-bending sci-fi, we've got something for you. We are committed to staying ahead in technology, ensuring seamless streaming and exploring new ways to captivate your imagination.</p>
+        <p>We're dedicated to fostering a global community of entertainment enthusiasts. Through collaborations with talented creators and partners, we strive to bring unique and culturally rich content to your screens.</p>
+
+
+        <h2>Contact Us</h2>
+        <p>Have questions, feedback, or just want to say hello? Feel free to reach out to us:</p>
+        <p>Email: <span style="color: #4CAF50;">info@yourstreamingservice.com</span></p>
+        <p>Phone: <span style="color: #4CAF50;">(123) 456-7890</span></p>
+    </section>
+</body>
+</html>
